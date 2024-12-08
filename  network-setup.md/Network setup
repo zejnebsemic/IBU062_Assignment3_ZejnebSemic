@@ -1,0 +1,29 @@
+Device list:
+- Router0 1941
+- Switch0 2960-24TT
+- Switch1 2960-24TT
+
+Devices connected to Switch0 (2960-24TT): 
+- PC-PT PC0 
+- PC-PT PC1
+- Laptop-PT Laptop0 
+- Server-PT Server0
+
+Devices connected to Switch1 (2960-24TT):
+- Server-PT Server1
+- Server-PT Server2
+- PC-PT PC2
+
+
+IP addresses:
+
+PC-PT PC0 : 168.90.0.3
+PC-PT PC1: 168.90.0.4
+PC-PT PC2: 210.3.14.4
+Laptop-PT Laptop0: 169.254.89.224
+Server-PT Server0: 168.90.0.2
+Server-PT Server1: 169.254.2.109
+Server-PT Server2: 210.3.14.3
+
+
+
