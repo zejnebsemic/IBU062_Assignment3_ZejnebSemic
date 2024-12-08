@@ -8,11 +8,13 @@ Devices connected to Switch0 (2960-24TT):
 - PC-PT PC1
 - Laptop-PT Laptop0 
 - Server-PT Server0
+- PC-PT PC3
 
 Devices connected to Switch1 (2960-24TT):
 - Server-PT Server1
 - Server-PT Server2
 - PC-PT PC2
+- PC-PT PC4
 
 
 IP addresses:
@@ -24,6 +26,8 @@ Laptop-PT Laptop0: 169.254.89.224
 Server-PT Server0: 168.90.0.2
 Server-PT Server1: 169.254.2.109
 Server-PT Server2: 210.3.14.3
+PC-PT PC3: 168.90.0.2
+PC-PT PC4: 210.3.14.2
 
 
 
