@@ -29,5 +29,18 @@ Server-PT Server2: 210.3.14.3
 PC-PT PC3: 168.90.0.2
 PC-PT PC4: 210.3.14.2
 
+DHCP Configuration Details:
+
+The commands listed below are used to set up DHCP on the router
+1. For Switch0:
+- ip dhcp pool FIRST_NETWORK
+- network 168.90.0.0 255.255.0.0
+- default-router 168.90.0.1
+
+2. For Switch1:
+- ip dhcp pool SECOND_NETWORK
+- network 210.3.14.0 255.255.255.0
+- default-router 210.3.14.1
+
 
 
